@@ -1,1 +1,1 @@
-# React-app sample react app still in inital phase
+# sample react app still in inital phase
